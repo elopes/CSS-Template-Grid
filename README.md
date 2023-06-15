@@ -1,4 +1,4 @@
-# CSS-Template-Grid
+# CSS-Template-Grid - Responsive template using Grid layout.
 Template responsivo utilizando Grid layout.
 
 Template responsivo para o desenvolvimento web
